@@ -1,3 +1,4 @@
+````markdown
 # Simulating Git Flow
 
 This repository demonstrates the simulation of Git flow using the Git Flow extension. Git Flow is a set of git extensions that provide high-level repository operations for Vincent Driessen's branching model. In this simulation, we'll walk through the steps to set up Git Flow in your local environment.
@@ -9,7 +10,6 @@ Make sure you have Git Flow installed. You can install it using [Homebrew](https
 ```bash
 brew install git-flow
 ```
-
 ````
 
 ## Getting Started
@@ -75,5 +75,4 @@ Feel free to explore and experiment with Git Flow in this repository. Happy codi
 ```
 
 Feel free to customize the content based on your specific project and preferences. You may also want to include information about your project, how to contribute, and any other relevant details.
-
-````
+```
